@@ -139,7 +139,7 @@ cloud-instance-recommender/
 ### **1. Access the Application**
 
 Visit the live application at the official deployment URL to begin using the Cloud Instance Recommender.
-https://harshit-kandhwey.github.io/Cloud-Instance-Recommender/
+https://github.com/shekarreddy1818-glitch/cloud-.git
 
 ### **2. Begin Analysis**
 
