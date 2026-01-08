@@ -8,7 +8,7 @@ A comprehensive web-based tool for generating optimal cloud instance recommendat
 
 > **🌐 Live Demo**: Try the interactive Cloud Instance Recommender tool.
 > Upload your VM data and get optimized recommendations across AWS, Azure, and GCP.
-> https://harshit-kandhwey.github.io/Cloud-Instance-Recommender/
+> https://shekarreddy1818.github.io/Cloud-Instance-Recommender/
 
 ## 🚀 Features
 
